@@ -33,7 +33,7 @@ A robust **cascade control architecture** was developed to handle the nonlinear,
 ##  Results & Field Testing
 The architecture was successfully deployed and tested on the physical Zeno AUV in open water. Despite significant environmental disturbances (wind gusts and surface currents) and initial GPS uncertainties, the control system proved highly robust. The AUV successfully explored the area (99.98% coverage), avoided all mapped obstacles, and intercepted all targets within the strict 20-minute mission time limit.
 
-## 👨‍💻 Authors (Team CostanSea - Planning & Control Group)
+## Authors (Team CostanSea - Planning & Control Group)
 * **Ettore Bioli** 
 * **Elia Tonci**
 * **Luca Cecchi**
