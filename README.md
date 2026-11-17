@@ -38,3 +38,5 @@ The architecture was successfully deployed and tested on the physical Zeno AUV i
 * **Elia Tonci**
 * **Luca Cecchi**
 
+Master's Students in Robotics and Automation Engineering | University of Pisa
+
